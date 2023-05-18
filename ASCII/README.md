@@ -1,18 +1,14 @@
-# AutoHotKey
+# ASCII Art
 
-Some AutoHotKey scripts.
+| Name   | Solid   | Cell Top | Cell Bottom | R-Slope | L-Slope |
+|--------|:-------:|:--------:|:-----------:|:-------:|:-------:|
+| Symbol | ```█``` | ```▀```  | ```▄```     | ```╱``` | ```╲``` |
 
-### Directives
-[Syntax & Usage](https://www.autohotkey.com/docs/v1/lib/_AllowSameLineComments.htm)
+ANSI Escape Codes [gist](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) by fnky
 
-```
-#NoEnv                ; Don't assume empty variable is an enviroment variable.
-#Warn                 ; Enable error warnings for typos or missing "global".
-SetTitleMatchMode 2   ; A window's title can contain _WinTitle_ anywhere to match.
-```
+Various sources, attributed where possible.
 
-- ALT-J.ahk: adds the shortcut for Δ to Windows.
-- ESC2ESC.ahk: Pressing 'esc' closes the AHK script. Useful to add.
-- CLIPCYCLE.ahk: Cycle Through Clipboard List
-- SPREADVALS.ahk: Get Values From Spreadsheet
-- JITTERBUG.ahk: No Sleep Mouse
+| Art          | Source      |
+|--------------|-------------|
+| Recognizer   | [Mistigris](https://16colo.rs/pack/mist0522/) |
+| Skull Banner | fvrlo (Me!) |
