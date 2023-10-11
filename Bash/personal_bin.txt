@@ -1,0 +1,9 @@
+#!/bin/bash
+neofetch
+mc
+mediainfo
+mkvtoolnix
+ffmpeg
+nano
+curl
+wget
